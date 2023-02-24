@@ -1,3 +1,3 @@
 # Pomodoro-Timer
 
-Building it now!
+Building it on React now!
